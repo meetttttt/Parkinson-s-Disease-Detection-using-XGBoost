@@ -41,3 +41,8 @@ step 6: Preprocessing the dataset (splitting data into testing set and training 
 step 7: Model Building
 step 8: Model Evaulation
 step 9: Testing model using custom data
+
+
+# Summary
+> In this Python machine learning project, we learned to detect the presence of Parkinson’s Disease in individuals using various factors. We used an XGBClassifier for this and made use of the sklearn library to prepare the dataset.
+> This model gives us an accuracy of 94.87%, which is great considering the small dataset.
