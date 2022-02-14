@@ -30,7 +30,7 @@ Speech changes. You may speak softly, quickly, slur or hesitate before talking. 
 
 Writing changes. It may become hard to write, and your writing may appear small.
 
-
+# Code steps:
 
 step 1: Importing necessary library
 
