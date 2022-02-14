@@ -33,13 +33,21 @@ Writing changes. It may become hard to write, and your writing may appear small.
 
 
 step 1: Importing necessary library
+
 step 2: Loading the dataset
+
 step 3: Exploring the dataset
+
 step 4: Visualization of the dataset
+
 step 5: Finding correlation 
+
 step 6: Preprocessing the dataset (splitting data into testing set and training set)
+
 step 7: Model Building
+
 step 8: Model Evaulation
+
 step 9: Testing model using custom data
 
 
